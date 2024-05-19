@@ -1,12 +1,10 @@
 h1 {
-  color: black;
-}
-
-h1 {
-  font-family: 'Raleway';
+  color: white;
+  font-family: 'Franklin Gothic Medium';
 }
 
 * {
   text-align: center;
+  background-color: black;
 }
 
