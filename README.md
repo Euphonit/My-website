@@ -1,0 +1,1 @@
+This is the source code for my website so do whatever you want with. I'm fine as long as you don't change my website.
