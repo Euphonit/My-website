@@ -1,14 +1,9 @@
-h1 {
-  color: white;
-  font-family: 'Franklin Gothic Medium';
-}
-
 * {
   text-align: center;
   background-color: black;
 }
 
-p {
+.text {
   color: white;
-  font-family: 'Franklin Gothic Medium';
+  font-family: 'Playfair Display', serif;
 }
